@@ -1,0 +1,11 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "RentalX Documentation",
+        "description": "Car rentals api developed at Rocketseat Ignite",
+        "version": "1.0.0",
+        "contact": {
+            "email": "contato@vitorgermano.dev.br"
+        }
+    }
+}
